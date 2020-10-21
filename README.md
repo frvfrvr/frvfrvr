@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### Name's FRVFRVR! the last four letters are pronounced "forever"
 
+Forking some stuff to work on motion tracking app in the future.
+
 <!--
 **frvfrvr/frvfrvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
