@@ -6,7 +6,7 @@ Forking some stuff to work on motion tracking play-to-earn app in the future ins
 
 - 🌱 I’m currently learning 
 	- C
-	- Python
+	- Python (some Pandas, Matplotlib, etc.)
 	- Javascript
 	- Flask, Django
 	- LAMP
