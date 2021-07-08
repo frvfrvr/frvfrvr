@@ -26,13 +26,14 @@ Forking some stuff to work on motion tracking play-to-earn app in the future ins
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frvfrvr)](https://github.com/frvfrvr/github-readme-stats)
 
 - 👯 My work experience
+- 	- I don't think my Flash game obituaries in Newsgrounds are considered as experience but tried nonetheless.
 	- Dishwasher 
 	- Supermarket Clerk (irasshaimase)
 	- Burger flipper (irasshaimase)
 	- Freelance video editor (Tip: don't accept lopsided jobs - especially bunch of JOs for only hundred bucks is no-no)
 	- Never had a real coding job yet.
 
-Developing my Telegram bot was my most successful work.
+Developing my Telegram bot was my most successful work in coding so far.
 
 <!--
 **frvfrvr/frvfrvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
