@@ -9,7 +9,7 @@ Forking some stuff to work on motion tracking play-to-earn app in the future ins
 	- Python (some Pandas, Matplotlib, etc.)
 	- Javascript
 	- Flask, Django
-	- LAMP
+	- XAMP
 	- SQL
 
 - 🤔 I’m planning to learn
