@@ -11,6 +11,7 @@ Forking some stuff to work on motion tracking play-to-earn app in the future ins
 	- Flask, Django
 	- XAMP
 	- SQL
+	- GDevelop
 
 - 🤔 I’m planning to learn
 	- Rust
