@@ -12,6 +12,7 @@ Forking some stuff to work on motion tracking play-to-earn app in the future ins
 	- XAMP
 	- SQL
 	- GDevelop
+	- Jekyll
 
 - 🤔 I’m planning to learn
 	- Rust
