@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### Name's FRVFRVR! the last four letters are pronounced "forever"
 
-Forking some stuff to work on motion tracking app in the future.
-
 *also my name is Francis*
 
 Forking some stuff to work on motion tracking play-to-earn app in the future inspired by Just Dance and Wii Fit.🌱
@@ -14,7 +12,7 @@ Forking some stuff to work on motion tracking play-to-earn app in the future ins
 - barely scratched the surface of PHP programming, [Javascript](https://javascript30.com/), [Jekyll](https://www.youtube.com/playlist?list=PLm_Qt4aKpfKijgP0rDH7FSJOlS9IBGbT1). I overcame other problems by getting familiar with functions through similar uses in other places.
 - Learned the fundamental skills in data science thanks to [Project SPARTA](https://coursebank.ph/sparta/) (a program only available in the Philippines) and [Kaggle](https://www.kaggle.com/). I also read [KDNuggets](https://www.kdnuggets.com/), [Towards Data Science](https://towardsdatascience.com/), [Kaggle Blogs from Competition Winners](https://medium.com/kaggle-blog), [Hackernoon](https://hackernoon.com/) and [Dev.to](https://dev.to/) to digest my knowledge for more efficient approach.
 - ...am practicing clean code in Python: following the write-ups written [here](https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-python-56bf) and [here](https://jerrynsh.com/how-to-write-clean-code-in-python/). Clean code shows that since the last reader of your own code is yourself, so it's better to tidy it to look readable not only to your future co-workers but to you.
-- I plan to learn: Ruby with [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails), Godot with [GDQuest](https://gdquest.github.io/learn-gdscript/)
+- I plan to learn: Ruby with [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails), Godot with [GDQuest](https://gdquest.github.io/learn-gdscript/) and [Nim language](https://nim-lang.org/).
 
 
 <!--
