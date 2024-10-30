@@ -5,7 +5,7 @@
 
 Forking some stuff to work on motion tracking play-to-earn app in the future inspired by Just Dance and Wii Fit.🌱
 
-- 🌱 I’ve learned C and broaden my knowledge in programming thanks to [CS50x](https://cs50.harvard.edu/x) (taking it on-off since 2013, and finally finished this 2023 to check off my bucket list)
+- 🌱 I’ve learned C and broaden my knowledge in programming thanks to [CS50x](https://cs50.harvard.edu/x) (taking it on-off since 2013, and finally finished in year 2023 to check off my bucket list)
 
   *I also...*
 - tinkered apps in Python and its built-in SQLite [thanks](https://www.sqlitetutorial.net/sqlite-python/) [to](https://www.techonthenet.com/sqlite/) [several](https://www.fullstackpython.com/) [Python](https://realpython.com/learning-paths/) [tutorials](https://stackoverflow.com/questions/tagged/python) [over](https://youtu.be/r-uOLxNrNk8) [years](https://youtu.be/byHcYRpMgI4) [of](https://www.youtube.com/watch?v=_uQrJ0TkZlc) [learning](https://www.youtube.com/watch?v=rfscVS0vtbw). (each word is a link to where I learned tips and tricks in Python and SQLite from and recommended it for anyone reading this profile)
